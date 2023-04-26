@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V4nish
-- 👀 I’m interested in Python, Machine Learning and true crime podcasts.
-- 🌱 I’m currently learning machine learning with Python over on Kaggle.
+- 👀 I’m interested in Python, Machine Learning and true crime podcasts.  I also like to play with Flutter and Laravel.
+- 🌱 I’m currently learning machine learning at Kaggle and Code.
 - 📫 How to reach me ... hmmm...
 
 <!---
